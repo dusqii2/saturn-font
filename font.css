@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'SaturnBoing' !important;
+  font-style: normal;
+  font-weight: 400;
+  src: local('SaturnBoing'), url("https://github.com/dusqii2/saturn-font/raw/main/SaturnBoingNew.ttf"), format(truetype);
+}
